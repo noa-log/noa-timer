@@ -1,7 +1,7 @@
 /*
  * @Author: nijineko
  * @Date: 2025-06-09 11:14:13
- * @LastEditTime: 2025-06-09 11:38:45
+ * @LastEditTime: 2025-06-11 12:01:40
  * @LastEditors: nijineko
  * @Description: noa timer package
  * @FilePath: \noa-timer\noatimer.go
@@ -15,7 +15,7 @@ import (
 	"github.com/noa-log/noa"
 )
 
-const (
+var (
 	DEFAULT_LOG_SOURCE = "Noatimer" // default log source
 )
 
