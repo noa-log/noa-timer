@@ -10,6 +10,8 @@ github.com/noa-log/colorize v1.0.1 h1:sOLx+nPupbZOG1de2KQEsmOl+R4glANfvWElohUFgb
 github.com/noa-log/colorize v1.0.1/go.mod h1:HksMHNpWZYvlG+rmRQJLdMnNI1A3CCVIbbiESxFmUyU=
 github.com/noa-log/noa v0.0.0-20250609023229-3706c6a17b9a h1:n18k1W+aPJ+8iFqvDPn/vaCYk95MIeZdUE9frQaXDko=
 github.com/noa-log/noa v0.0.0-20250609023229-3706c6a17b9a/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
+github.com/noa-log/noa v1.0.0 h1:Jzhpafvg15NPpkkAa+7uLU8cwKb7qouIfykVkhibXTI=
+github.com/noa-log/noa v1.0.0/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.10.1/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.7.0/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
